@@ -7,3 +7,10 @@ CAMERAPASSWORD=''
 CAMERAIP=''
 CAMERAPORT=''
 CAMERASTREAM=''
+
+## Modifications
+
+Modified from original repo:
+
+- Switched to Alpine linux
+- Modified the output to work with octoprint
